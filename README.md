@@ -1,2 +1,4 @@
-# Crypto-Crowdfunding-Platform
-A web3 crowdfunding platform that allows users to create, view, and donate to crowdfunding campaigns using cryptocurrency.
+# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
+![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
+
+### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
